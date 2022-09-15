@@ -1,0 +1,5 @@
+name: hot_reload
+
+dependencies:
+  watcher:
+  vm_service:
